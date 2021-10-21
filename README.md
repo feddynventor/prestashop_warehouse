@@ -8,6 +8,6 @@ It offers a good API endpoint, originally interfaced with a mobile app and a sma
 
 You can choose between sell and buy (buy as a new product is added to the warehouse availability) so you can scan the product with your phone (or insert the code manually on the web page) to increase (buy) or decrease (sell) the quantity of a product
 
-## DISLAIMER
+## DISCLAIMER
 Please don't use this as there are the official Prestashop APIs that are waaay more reliable to use.
 Use this project as a repo to check how to maybe manage a Prestashop database.
